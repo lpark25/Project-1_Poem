@@ -19,11 +19,11 @@ h2 {
 p {margin-top: 50px;
   font-family: georgia;
   font-size: 17px;
-  text-align: left;
+  text-align: inherit;
 }
 
 p2 {margin-top: 40px;
   font-family: georgia;
   font-size: 17px;
-  text-align: left;
+  text-align: inherit;
 }
