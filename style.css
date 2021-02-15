@@ -6,7 +6,6 @@ h1 {
   color: darkblue;
   text-align: left;
   font-family: georgia;
-  margin-left: 20px;
 }
 
 h2 {
@@ -15,19 +14,16 @@ h2 {
   font-size: 17px;
   margin-top: -10px;
   font-family: georgia;
-  margin-left: 20px;
 }
 
 p {margin-top: 50px;
   font-family: georgia;
   font-size: 17px;
   text-align: left;
-  margin-left: 40px;
 }
 
 p2 {margin-top: 40px;
   font-family: georgia;
   font-size: 17px;
   text-align: left;
-  margin-left: 40px;
 }
