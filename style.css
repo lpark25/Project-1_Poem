@@ -10,10 +10,11 @@ h1 {
 h2 {
   color: darkblue;
   text-align: center;
-  font-size: 15px;
+  font-size: 17px;
+  margin-top: -5px;
 }
 
-p {
+p {margin-top: 10px;
   font-family: verdana;
   font-size: 21px;
   text-align: center;
